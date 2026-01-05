@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+
+}
+.contenedor{
+    width: 375px;
+    height: 2306px;
+    background-color: brown;
+    margin: auto;
+    padding-top: 45px;
+    
+}
+.pdad{
+   width: 342px;
+   height: 47px;
+   background-color: #FE8936;
+   border-radius: 20px;
+   margin: auto;
+}
+.pdad p{
+    text-align: center;
+    color: #fff;
+    padding: 15px;
+}
+
+.buscar{
+    width: 342px;
+    height: 48px;
+    background-color: #F8F2F2;
+    border-radius: 9px;
+    margin: 20px auto;
+}
+.buscar p{
+    text-align:left;
+    color: #949494;
+    padding: 15px;
+    font-size: 14.5px;
+}
+.slider{
+    width: 342px;
+    height: 172px;
+    background-color: #EC3333;
+    border-radius:15px;
+    margin: 20px auto  
+}
+.contador{
+    width: 30%;
+    height: 10px;
+    background-color: #FE8936;
+    margin: auto;
+}
+.marcas{
+    width: 342px;
+    height: 25px;
+    background-color: beige;
+    margin: 28px auto;
+}
+.marcas p{
+    color: #949494;
+    padding: 3px;
+    font-size: 18px;
+}
+.carrusel{
+    width: 342px;
+    height: 63px;
+    background-color:orange;
+    margin:auto;
+    overflow: scroll;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.carrusel div{
+    width: 63px;
+    height: 63px;
+    border-radius: 5px;
+    background-color: #F8F2F2;
+}
+.local{
+    width: 342px;
+    background-color: #F8F2F2;
+    margin:16px auto;
+}
+.grid2 > div{
+    width: 166px;
+    height: 142px;
+    background-color: blueviolet;
+    text-align: left;
+}
+.grid2 > div > div{
+    width: 100%;
+    height: 116px;
+    background-color: orange;
+    border-radius: 15PX;
+}
+.favoritos{
+    width: 375px;
+    height: 183px;background-color: purple;
+    margin: 31px auto;
+    padding-top: 2.5px;
+}
+.fv{
+    width: 342px;
+    height: 116px;
+    margin: auto;
+}
+.vendido{
+    width: 342px;
+    height: 25px;
+    background-color: beige;
+    margin: 28px auto;
+}
+
+.pie{
+    width: 100%;
+    height: 250px;
+    background-color: blue;
+    margin-top: 100px;
+}   
