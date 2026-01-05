@@ -1,0 +1,16 @@
+.grid2{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 31px 10px;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+}
+.grid7{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: 31px 16px;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+}
