@@ -2,6 +2,11 @@
     margin: 0;
 
 }
+.top{
+    margin-top: 23px;
+}
+
+
 .contenedor{
     width: 375px;
     height: 2306px;
@@ -75,10 +80,17 @@
     border-radius: 5px;
     background-color: #F8F2F2;
 }
+.carrusel div img{
+    width: 100%;
+}
 .local{
     width: 342px;
     background-color: #F8F2F2;
     margin:16px auto;
+}
+.local div div img{
+    width: 55%;
+    margin: 12px 38px;
 }
 .grid2 > div{
     width: 166px;
